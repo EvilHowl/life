@@ -1,0 +1,6 @@
+build/*
+!build/*.png
+life
+.vscode/
+*.code-workspace
+.idea/
